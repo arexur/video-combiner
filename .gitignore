@@ -1,0 +1,24 @@
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+
+# Credentials (JANGAN commit credentials!)
+service-account.json
+*.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
